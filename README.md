@@ -15,10 +15,11 @@ Todos los archivos en **PNG** o **WEBP lossless** → calidad 100% sin recomprim
 **Última actualización:12 Enero 2026
 
 ### Vista previa de algunos favoritos
+<div align="center">
+  <img src="/Animado/1-catppuccin.png" width="400" alt="Catppuccin Aesthetic - Cute Pastel Cat"/>
+  <img src="/Animado/postexd.jpg" width="400" alt="Postexd - Neon Cyberpunk Vibes"/>
+</div>
 
-<!-- Puedes añadir 3–6 imágenes pequñas aquí cuando las subas -->
-<!-- Ejemplo cuando ya tengas archivos: -->
-<!-- ![preview1](Nature/wallpaper-01.png) -->
 
 ## Cómo descargar todo
 1. Botón verde **Code → Download ZIP**
