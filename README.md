@@ -18,7 +18,7 @@ Todos los archivos en **PNG** o **WEBP lossless** → calidad 100% sin recomprim
 
 <!-- Puedes añadir 3–6 imágenes pequñas aquí cuando las subas -->
 <!-- Ejemplo cuando ya tengas archivos: -->
-<!-- ![preview1](Nature/wallpaper-001.png) -->
+<!-- ![preview1](Nature/wallpaper-01.png) -->
 
 ## Cómo descargar todo
 1. Botón verde **Code → Download ZIP**
