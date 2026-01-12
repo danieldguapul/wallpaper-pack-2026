@@ -1,9 +1,10 @@
 # wallpaper-pack-2026
+lampara ooe
 Colección Personal de wallpapers en alta resolución  
-Todos los archivos en **PNG** o **JPG** → calidad 100% sin recomprimir
+calidad 100% sin recomprimir
 
 ### Categorías disponibles
-- **Animado** → Estilos anime/cats  
+- **Animado** 
 - **Abstracto** → Colores vibrantes, ondas, patrones, fluidos
 - **Nature** → Paisajes, montañas, naturaleza  
 - **DARK** →walls oscuros
