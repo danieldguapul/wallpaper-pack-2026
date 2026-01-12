@@ -23,6 +23,8 @@ Todos los archivos en **PNG** o **WEBP lossless** → calidad 100% sin recomprim
   <img src="/Abstracto/wallpaperflare.com_wallpaper.jpg" width="45%" alt="Abstracto - Patrón Intenso (WallpaperFlare)"/>
   <br><br>
   <img src="/fantasia/cataclysm_classic_by_tamplierpainter_dges0kx.jpg" width="45%" alt="dragonculikgao"/>
+  <img src="/DARK/cyberpunk_xtrafondos.com.jpg" width="45%" alt="cyberpunk"/>
+  <br><br>
   <img src="/cosmos/IMG_4868.jpeg" width="45%" alt="cosmos"/>
 </div>
 
