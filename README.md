@@ -21,6 +21,8 @@ Todos los archivos en **PNG** o **WEBP lossless** → calidad 100% sin recomprim
   <br><br>
   <img src="/Abstracto/a_blue_and_orange.jpg" width="45%" alt="Abstracto - Azul y Naranja Fluido"/>
   <img src="/Abstracto/wallpaperflare.com_wallpaper.jpg" width="45%" alt="Abstracto - Patrón Intenso (WallpaperFlare)"/>
+  <br><br>
+  <img src="/fantasia/cataclysm_classic_by_tamplierpainter_dges0kx.jpg" width="45%" alt="dragonculikgao"/>
 </div>
 
 
