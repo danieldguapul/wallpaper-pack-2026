@@ -16,8 +16,11 @@ Todos los archivos en **PNG** o **WEBP lossless** → calidad 100% sin recomprim
 
 ### Vista previa de algunos favoritos
 <div align="center">
-  <img src="/Animado/1-catppuccin.png" width="400" alt="Catppuccin Aesthetic - Cute Pastel Cat"/>
-  <img src="/Animado/postexd.jpg" width="400" alt="Postexd - Neon Cyberpunk Vibes"/>
+  <img src="/Animado/1-catppuccin.png" width="45%" alt="Catppuccin - Aesthetic Pastel Cat"/>
+  <img src="/Animado/postexd.jpg" width="45%" alt="Postexd - Neon Cyberpunk"/>
+  <br><br>
+  <img src="/Abstracto/a_blue_and_orange.jpg" width="45%" alt="Abstracto - Azul y Naranja Fluido"/>
+  <img src="/Abstracto/wallpaperflare.com_wallpaper.jpg" width="45%" alt="Abstracto - Patrón Intenso (WallpaperFlare)"/>
 </div>
 
 
